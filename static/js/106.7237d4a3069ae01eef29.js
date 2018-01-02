@@ -1,1 +1,0 @@
-webpackJsonp([106],{28:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default={base:"\n<template>\n  <emfe-color v-model=\"color\"></emfe-color>\n</template>\n<script>\n  export default {\n    data() {\n      return {\n        color: '00ff00',\n      };\n    },\n  },\n<\/script>"}}});

@@ -1,1 +1,0 @@
-webpackJsonp([81],{52:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default={base:"\n<emfe-link :routers=\"{ name: 'Font' }\">去 EM-FE 的字体</emfe-link>",url:"\n<emfe-link :routers=\"{ url: 'https://www.evente.cn' }\">去活动易</emfe-link>"}}});
